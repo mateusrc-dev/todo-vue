@@ -1,5 +1,9 @@
 # todo-vue
 
+## app create with Vue when we can create new tasks for our todo list
+
+## app created in course developer fullstack java of EBAC
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -27,3 +31,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# deploy:
+
+✔️ https://todo-vue-black-two.vercel.app/
