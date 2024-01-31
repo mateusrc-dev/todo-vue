@@ -1,6 +1,6 @@
 # todo-vue
 
-## app create with Vue when we can create new tasks for our todo list
+## app create with Vue where we can create new tasks for our todo list
 
 ## app created in course developer fullstack java of EBAC
 
